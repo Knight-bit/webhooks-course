@@ -1,2 +1,6 @@
-[build]
-    functions = "functions/"
+[Settings]
+  ID = "72fc63cd-23ae-4d89-80f7-e33c0a2efffe"
+
+[Build]
+  Publish = ""
+  Functions = ""
